@@ -1,6 +1,6 @@
 # Wireframe-Event-Planner-Q4-2022
 
-Upwork team's event planner website. I have designed a total of five pages for an event planner website based on reseach and instructions from the team. I later added two examples of a mobile responsive version. 
+Upwork team's event planner website. I have designed a total of five pages for an event planner website based on reseach and instructions from the team.
 
 ![Wireframe Event Planner](https://github.com/walidcodes/Wireframe-Event-Planner-Q4-2022/assets/49271416/d876639a-a798-4361-a9d5-4b11017f6e05)
 
